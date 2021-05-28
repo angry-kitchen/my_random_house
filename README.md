@@ -14,3 +14,5 @@
 
 - [redis](https://angry-kitchen.github.io/redis-core-technology-and-actual-combat/)
 
+- [Docker + K8s ](https://angry-kitchen.github.io/learn_docker_K8S_from_BAT_technical_experts/)
+
