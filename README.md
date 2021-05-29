@@ -16,3 +16,5 @@
 
 - [Docker + K8s ](https://angry-kitchen.github.io/learn_docker_K8S_from_BAT_technical_experts/)
 
+- [18-剖析 React 内部运行机制](https://angry-kitchen.github.io/Dissect_the_internal_workings_of_React/)
+
